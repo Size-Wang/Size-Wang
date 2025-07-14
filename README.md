@@ -82,18 +82,18 @@ I am actively seeking PhD positions focused on interdisciplinary and applied res
 
 ---
 
-## 🏅 Awards & Honors
+## 🏅 Awards, Honors, Scholarships
 
-- Outstanding Graduate (Top 5%), Beihang University
-- Outstanding Bachelor’s Thesis (Top 1%), Beihang University
+- Outstanding Graduate of Beihang University (Top 5%)
+- Outstanding Bachelor’s Thesis of Beihang University (Top 1%)
+- Beihang Merit Student (Top 1%)
 - COMAP's ICM Meritorious Winner (Top 6%)
 - National Second Prize, Chinese Undergraduate Mathematical Contest in Modeling (Top 3%)
-- Beihang Merit Student (Top 1%)
-
-## 💰 Scholarships & Research Funding
 - China Scholarship Council (CSC) funded Research Internship at University of Alberta (5400 CAD), 2022
 - Scholarship for Outstanding Performance in Study (2000 CNY/year), Beihang University, 2021, 2022, 2023
-- Scholarship for Outstanding Performance in Academic Competition (2000 CNY/year), Beihang University, 2021, 2022
+- Scholarship for Outstanding Performance in Academic Competition (2000 CNY/year), Beihang University, 2021, 2022, 2023
+- Beihang M.S. Scholarship for Outstanding Freshmen (5000 CNY)
+  
 
 ---
 
