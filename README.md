@@ -2,13 +2,18 @@
 
 **Master Researcher in Artificial Intelligence | Seeking PhD Opportunities**
 
+- Email: sizewang@buaa.edu.cn | szwang0312@gmail.com
+
+
 ---
 
 ## 🚀 About Me
 
-I'm a passionate researcher dedicated to integrating cutting-edge AI with cross-domain expertise to deliver practical, scalable, and high-impact applications. Currently, I am pursuing my MSc in Artificial Intelligence at Beihang University, where my work focuses on multi-agent reinforcement learning (MARL), large language models (LLMs), and intelligent robotics.
+I'm a passionate researcher <u>_dedicated to integrating cutting-edge AI with cross-domain expertise to deliver practical, scalable, and high-impact applications_</u>. 
 
-I'm actively looking for PhD positions to further advance my research and collaborate globally.
+Currently, I am pursuing my MSc in Artificial Intelligence at Beihang University, where my work focuses on multi-agent reinforcement learning (MARL), large language models (LLMs), and intelligent robotics. I received my Bachelor of Science in Artificial Intelligence from Beihang University in 2019, graduating as an Outstanding Graduate.
+
+I am actively seeking PhD positions focused on interdisciplinary and applied research. While my background is in AI and robotics, I am not limited to these fields—I am especially interested in identifying a specific domain (such as healthcare, environmental science, or industrial automation) where I can leverage my AI expertise to drive meaningful, real-world impact. I welcome opportunities to collaborate across fields and apply advanced AI methods to solve real-world pressing challenges.
 
 ---
 
@@ -19,6 +24,7 @@ I'm actively looking for PhD positions to further advance my research and collab
 - Multi-Agent Path Finding (MAPF)
 - Swarm Intelligence
 - Safe & Efficient Robotics
+- ...
 
 ---
 
@@ -104,10 +110,5 @@ I'm actively looking for PhD positions to further advance my research and collab
 
 ---
 
-## 📢 Contact
-
-- Email: sizewang@buaa.edu.cn | szwang0312@gmail.com
-
----
 
 **Actively seeking PhD opportunities in AI, reinforcement learning, and robotics. Let's connect!**
