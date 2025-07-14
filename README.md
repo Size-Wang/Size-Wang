@@ -96,5 +96,3 @@ I am actively seeking PhD positions focused on interdisciplinary and applied res
 
 ---
 
-
-**Actively seeking PhD opportunities in AI, reinforcement learning, and robotics. Let's connect!**
