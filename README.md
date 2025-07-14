@@ -38,7 +38,7 @@ I am actively seeking PhD positions focused on interdisciplinary and applied res
 
 ---
 
-## 🏆 Work Experience
+## 👩‍💻 Work Experience
 
 - **Machine Learning Engineer Intern**  
   *Advertiser Mechanism Group, JD.com, Beijing, China*  
@@ -55,12 +55,12 @@ I am actively seeking PhD positions focused on interdisciplinary and applied res
 
 ## 🔬 Research Highlights
 
-### 🔬 LLMs for Multi-Agent Path Finding ([GitHub Repo](https://github.com/fpgod/LLM-NAR))
+### 🤖 LLMs for Multi-Agent Path Finding ([GitHub Repo](https://github.com/fpgod/LLM-NAR))
 - Pioneered the integration of Large Language Models in MAPF.
 - Developed a hybrid solution to enhance spatial reasoning and planning.
 - **Impact:** Achieved up to 50% improvement in success rate; published at the 2025 International Joint Conference on Neural Networks.
 
-### 🔬 Consensus-Driven MARL Framework ([arXiv:2407.08164](https://arxiv.org/abs/2407.08164))
+### ➿ Consensus-Driven MARL Framework ([arXiv:2407.08164](https://arxiv.org/abs/2407.08164))
 - Consensus mechanism for decentralized coordination in MARL.
 - **Impact:** Improved cumulative rewards by 33% and accelerating training convergence by 10%. Published at the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems.
 
