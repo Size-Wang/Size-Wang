@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate researcher <u>_dedicated to integrating cutting-edge AI with cross-domain expertise to deliver practical, scalable, and high-impact applications_</u>. 
+I'm a passionate researcher <u>dedicated to integrating cutting-edge AI with cross-domain expertise to deliver practical, scalable, and high-impact applications</u>. 
 
 Currently, I am pursuing my MSc in Artificial Intelligence at Beihang University, where my work focuses on multi-agent reinforcement learning (MARL), large language models (LLMs), and intelligent robotics. I received my Bachelor of Science in Artificial Intelligence from Beihang University in 2019, graduating as an Outstanding Graduate.
 
