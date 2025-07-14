@@ -75,9 +75,9 @@ I am actively seeking PhD positions focused on interdisciplinary and applied res
 ## 📚 Selected Publications
 
 - Neural Algorithmic Reasoners Informed Large Language Model for Multi-Agent Path Finding, International Joint Conference on Neural Networks (IJCNN) 2025
-- Hierarchical Consensus-Based Multi-Agent Reinforcement Learning for Multi-Robot Tasks, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2024
-- Safe & Efficient Multi-Agent Collision Avoidance with Physics-Informed RL, IEEE Robotics and Automation Letters 2024
-- Dvsod: RGB-D Video Salient Object Detection, Conference on Neural Information Processing Systems (NeurIPS) 2023
+- Hierarchical Consensus-Based Multi-Agent Reinforcement Learning for Multi-Robot Tasks, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2024. [arXiv:2407.08164](https://arxiv.org/abs/2407.08164)
+- Safe and Efficient Multi-Agent Collision Avoidance With Physics-Informed Reinforcement Learning, IEEE Robotics and Automation Letters 2024. [IEEE Xplore](https://ieeexplore.ieee.org/document/10737374)
+- Dvsod: RGB-D Video Salient Object Detection, Conference on Neural Information Processing Systems (NeurIPS) 2023. [Website](https://dvsod.github.io/), [Virtual Poster](https://neurips.cc/virtual/2023/poster/73637)
 
 ---
 
