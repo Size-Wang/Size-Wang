@@ -44,35 +44,30 @@ I am actively seeking PhD positions focused on interdisciplinary and applied res
   *Advertiser Mechanism Group, JD.com, Beijing, China*  
   *Jun. 2025 – Present*  
   - **Introduced Multi-Agent Reinforcement Learning (MARL) to e-commerce auto-bidding systems.**
-  - Formulated advertiser bidding as a decentralized partially observable Markov decision process (Dec-POMDP), enabling scalable agent interactions and adaptive bidding.
-  - Engineered modular system components for state fusion, dynamic bid adjustment, and dual-objective reward design (balancing advertiser ROI and platform revenue).
-  - Proposed advertiser-specific reward shaping, parameter sharing, and prioritized replay strategies to boost decentralized training efficiency.
-
+  
 - **CSC Funded Research Intern**  
   *Vision and Learning Lab, University of Alberta, Edmonton, Canada*  
   *Jul. 2022 – Nov. 2022*  
   - Funded by China Scholarship Council (CSC), **received CAD 5,400** for a three-month internship
-  - Created DViSal: the first RGB-D video salient object detection dataset, establishing a benchmark for video perception research.
-  - Published in NeurIPS 2023
+  - Created DViSal: the first RGB-D video salient object detection dataset, establishing a benchmark for video perception research. Published in NeurIPS 2023
 
 ---
 
 ## 🔬 Research Highlights
 
-### 🔬 LLMs for Multi-Agent Path Finding
-- **Pioneered the integration of Large Language Models in MAPF:** Identified design limitations of LLM-based planners and innovated a step-by-step workflow compatible with the Markovian nature of path finding.
-- **Developed a hybrid solution:** Combined graph neural network-powered neural algorithmic reasoners with LLMs to enhance spatial reasoning and planning.
-- **Impact:** Achieved up to 50% improvement in success rate; results published at the 2025 International Joint Conference on Neural Networks.
+### 🔬 LLMs for Multi-Agent Path Finding ([GitHub Repo](https://github.com/fpgod/LLM-NAR))
+- **Pioneered the integration of Large Language Models in MAPF.**
+- **Developed a hybrid solution to enhance spatial reasoning and planning.**
+- **Impact:** Achieved up to 50% improvement in success rate; published at the 2025 International Joint Conference on Neural Networks.
 
-### 🔬 Consensus-Driven MARL Framework
-- **Consensus mechanism for decentralized coordination:** Proposed a self-supervised hierarchical consensus strategy for MARL, enabling global coordination from local observations without labeled data.
-- **Technical achievements:** Embedded hierarchical consensus layers in Actor networks, improving cumulative rewards by 33% and accelerating training convergence by 10%.
-- **Impact:** Published at the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems.
+### 🔬 Consensus-Driven MARL Framework ([arXiv:2407.08164](https://arxiv.org/abs/2407.08164))
+- **Consensus mechanism for decentralized coordination in MARL.**
+- **Impact:** Improved cumulative rewards by 33% and accelerating training convergence by 10%. Published at the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems.
 
 ### 📊 Sim2Real Robotics
 - **Bridging simulation and reality:** Built Webots-based MARL benchmarks and led ROS-based deployment of MARL policies in unmanned vehicles.
 
-### 🖼️ RGB-D Video SOD
+### 🖼️ RGB-D Video SOD ([Website](https://dvsod.github.io/))
 - **Dataset creation:** Developed DViSal, the first RGB-D video salient object detection benchmark, enabling advances in video perception (NeurIPS 2023).
 
 ---
@@ -98,15 +93,6 @@ I am actively seeking PhD positions focused on interdisciplinary and applied res
 - China Scholarship Council (CSC) funded Research Internship at University of Alberta (5400 CAD), 2022
 - Scholarship for Outstanding Performance in Study (2000 CNY/year), Beihang University, 2021, 2022, 2023
 - Scholarship for Outstanding Performance in Academic Competition (2000 CNY/year), Beihang University, 2021, 2022
-
----
-
-## 🌱 Leadership & Service
-
-- President, Student Union, ShiE College (2020-2021)
-  - Organized campus events for 800+ attendees
-- Volunteer Operation Manager, Non-Profit Online Tutoring (2020)
-  - Led 100+ tutors, delivering 10,000+ hours of free online classes to 600+ students, featured on CCTV-1
 
 ---
 
