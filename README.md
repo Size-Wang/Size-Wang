@@ -2,7 +2,7 @@
 
 **Master Researcher in Artificial Intelligence | Seeking PhD Opportunities**
 
-- Check out my **resume** [here](https://github.com/Size-Wang/Size-Wang/blob/main/SizeWang_Resume.pdf)
+- Check out my **resume** [here](https://github.com/Size-Wang/Size-Wang/blob/main/SizeWang_CV.pdf)
 - My Email: sizewang@buaa.edu.cn | szwang0312@gmail.com
 
 
