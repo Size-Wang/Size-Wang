@@ -68,17 +68,17 @@ I am actively seeking PhD positions focused on interdisciplinary and applied res
 ### 📊 Sim2Real Robotics
 - **Bridging simulation and reality:** Built Webots-based MARL benchmarks and led ROS-based deployment of MARL policies in unmanned vehicles.
 
-### 🖼️ RGB-D Video SOD ([Website](https://dvsod.github.io/))
+### 🖼️ RGB-D Video SOD ([Website](https://dvsod.github.io/), [GitHub Repo](https://github.com/DVSOD/DVSOD-DViSal))
 - **Dataset creation:** Developed DViSal, the first RGB-D video salient object detection benchmark, enabling advances in video perception (NeurIPS 2023).
 
 ---
 
 ## 📚 Selected Publications
 
-- Neural Algorithmic Reasoners Informed Large Language Model for Multi-Agent Path Finding, International Joint Conference on Neural Networks (IJCNN) 2025
+- Neural Algorithmic Reasoners Informed Large Language Model for Multi-Agent Path Finding, International Joint Conference on Neural Networks (IJCNN) 2025. [GitHub Repo](https://github.com/fpgod/LLM-NAR)
 - Hierarchical Consensus-Based Multi-Agent Reinforcement Learning for Multi-Robot Tasks, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2024. [arXiv:2407.08164](https://arxiv.org/abs/2407.08164)
 - Safe and Efficient Multi-Agent Collision Avoidance With Physics-Informed Reinforcement Learning, IEEE Robotics and Automation Letters 2024. [IEEE Xplore](https://ieeexplore.ieee.org/document/10737374)
-- Dvsod: RGB-D Video Salient Object Detection, Conference on Neural Information Processing Systems (NeurIPS) 2023. [Website](https://dvsod.github.io/), [Virtual Poster](https://neurips.cc/virtual/2023/poster/73637)
+- Dvsod: RGB-D Video Salient Object Detection, Conference on Neural Information Processing Systems (NeurIPS) 2023. [Website](https://dvsod.github.io/), [Virtual Poster](https://neurips.cc/virtual/2023/poster/73637), [GitHub Repo](https://github.com/DVSOD/DVSOD-DViSal)
 
 ---
 
